@@ -56,4 +56,4 @@ de-ai-feel/
 
 MIT License。
 
-由 [techtip_s](https://www.threads.net/@techtip_s) 整理維護。若遇到新的工具殘留、平台格式或台灣用語案例，歡迎開 issue。
+由 [techtips_scarlett（Threads）](https://www.threads.com/@techtips_scarlett) 整理維護；Instagram：[techtips_scarlett](https://www.instagram.com/techtips_scarlett/)。若遇到新的工具殘留、平台格式或台灣用語案例，歡迎開 issue。
